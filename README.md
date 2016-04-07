@@ -1,9 +1,9 @@
 # Introduction
 
   The purpose of this tool is a few things:
-    1. give me more python experience
-    2. provide an easy way to track all my stocks in a centralized location (outside of my various stock portfolios)
-    3. eventually hook in with Amazon Echo as an app that can present stock value, portfolio value, and individual stock
+  1. give me more python experience
+  2. provide an easy way to track all my stocks in a centralized location (outside of my various stock portfolios)
+  3. eventually hook in with Amazon Echo as an app that can present stock value, portfolio value, and individual stock
     price for an individual check.
 
 # Basic Use
@@ -21,7 +21,6 @@
   ```
   sudo pip install csv
   ```
-
   You will additionally need a csv file in the following directory:
   ```
   ~/github/portfoliotracker/stocks.txt
